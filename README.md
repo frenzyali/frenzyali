@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Ali Hussain
 ======================================================================================================================================
-<h4>A Web / App Developer</h4>
+<h4>Linux & DevOps Enthusiast | Cybersecurity & Kubernetes Practitioner | Cloud & AI Ops Student</h4>
 
-- 🔭 I’m currently indulged in Python, Typescript and JS!
-- 🌱 I’m Interested to work on Web 3.0, Metaverse
-- 👯 Trying to make the world better by PRs
-- 💬 Ask me about Technology & Coding
-- 📫 How to reach me: syedpheonixhussain@gmail.com
+🖥️ Currently working with: Linux, Kubernetes, Docker, CI/CD, and Cloud (AWS & Azure)
+🔍 Interested in: DevOps, Cybersecurity, SOC Engineering, and AIOps
+🛠️ Hands-on experience in: Vulnerability Assessment, Automation, Infrastructure as Code, Kubernetes, Docker, QA, Bash Scripting, Pentesting.
+📫 Reach me at: syedpheonixhussain@gmail.com
 
-<p align="left"> <a href="https://www.linkedin.com/in/syed-ali-hussain31/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40syed_ali_hussain-31?style=for-the-badge&logo=linkedin&logoColor=blue&color=gray" alt="syedalihussainlinkedin" /></a> </p>
+🌐 Connect with me:
+<p align="left"> <a href="https://www.linkedin.com/in/syed-ali-hussain31/" target="blank"> <img src="https://img.shields.io/badge/Follow%20%40syed_ali_hussain-31?style=for-the-badge&logo=linkedin&logoColor=blue&color=gray" alt="syedalihussainlinkedin" /> </a> </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> </p>
+🛠 Tech Stack:
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="50" height="50"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="50" height="50"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="50" height="50"/> </a> <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Elastic_Stack_logo.svg" alt="elk-stack" width="50" height="50"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="50" height="50"/> </a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="50" height="50"/> </a> </p>
 
 
 <b>My GitHub Stats</b>
