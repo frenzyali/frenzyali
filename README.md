@@ -2,10 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>Linux & DevOps Enthusiast | Cybersecurity & Kubernetes Practitioner | Cloud & AI Ops Student</h4>
 
-🖥️ Currently working with: Linux, Kubernetes, Docker, CI/CD, and Cloud (AWS & Azure)
-🔍 Interested in: DevOps, Cybersecurity, SOC Engineering, and AIOps
-🛠️ Hands-on experience in: Vulnerability Assessment, Automation, Infrastructure as Code, Kubernetes, Docker, QA, Bash Scripting, Pentesting.
-📫 Reach me at: syedpheonixhussain@gmail.com
+- 🖥️ **Currently working with:** Linux, Kubernetes, Docker, CI/CD, and Cloud (AWS & Azure)  
+- 🔍 **Interested in:** DevOps, Cybersecurity, SOC Engineering, and AIOps  
+- 🛠️ **Hands-on experience in:**  
+  - Vulnerability Assessment  
+  - Automation  
+  - Infrastructure as Code  
+  - Kubernetes  
+  - Docker  
+  - QA  
+  - Bash Scripting  
+  - Pentesting  
+- 📫 **Reach me at:** [syedpheonixhussain@gmail.com](mailto:syedpheonixhussain@gmail.com)
 
 🌐 Connect with me:
 <p align="left"> <a href="https://www.linkedin.com/in/syed-ali-hussain31/" target="blank"> <img src="https://img.shields.io/badge/Follow%20%40syed_ali_hussain-31?style=for-the-badge&logo=linkedin&logoColor=blue&color=gray" alt="syedalihussainlinkedin" /> </a> </p>
