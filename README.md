@@ -28,7 +28,7 @@ https://www.linkedin.com/syed-ali-hussain31
 
 <a href="http://www.github.com/frenzyali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=frenzyali&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/frenzyali"><img src="https://github-readme-activity-graph.vercel.app/graph?username=frenzyali&bg_color=1d1917&color=ffffff&line=21833e&point=55f934&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/frenzyali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyali&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
