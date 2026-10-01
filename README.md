@@ -11,5 +11,6 @@ EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
 - More coming: Terraform/AWS, Docker Compose, Kubernetes, Ansible, observability
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/alihussaindevops/) · syedalihussain312008@gmail.com
-Professional work (private repos, activity counts only): [alihussain-aiitsolutions](https://github.com/alihussain-aiitsolutions)
+- [LinkedIn](https://www.linkedin.com/in/alihussaindevops/) 
+- [Email](syedalihussain312008@gmail.com)
+- [Work] Professional work (private repos, activity counts only): [alihussain-aiitsolutions](https://github.com/alihussain-aiitsolutions)
