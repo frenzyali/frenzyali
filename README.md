@@ -8,6 +8,7 @@ EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
 ### Projects
 - [observability-stack](https://github.com/frenzyali/observability-stack): Docker Compose monitoring stack with Prometheus, Alertmanager and Grafana as code, unit-tested alert rules, SLO burn-rate alerts, and an end-to-end test in CI that fires real alerts.
 - [aws-terraform-3tier](https://github.com/frenzyali/aws-terraform-3tier): Production-style 3-tier AWS infrastructure in Terraform (VPC, ALB, ASG, RDS, remote state) with credential-free CI scanning.
+- [ansible-linux-hardening](https://github.com/frenzyali/ansible-linux-hardening): idempotent Ansible roles that harden Ubuntu 24.04 and Rocky Linux 9 (SSH, firewall, fail2ban, auditd, sysctl, updates), Molecule-tested in CI with a lockout guard that is itself tested.
 - [reddit-clone-k8s](https://github.com/frenzyali/reddit-clone-k8s): Reddit clone deployed on Kubernetes
 - [3-Tier-Laravel-Application-Deployment](https://github.com/frenzyali/3-Tier-Laravel-Application-Deployment): Laravel stack on Docker Compose with NGINX reverse proxy and MySQL
 - [todo-cicd-pipeline](https://github.com/frenzyali/todo-cicd-pipeline): CI/CD pipeline for a to-do app
