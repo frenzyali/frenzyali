@@ -6,13 +6,13 @@ I build and run CI/CD pipelines, containerized deployments, and infrastructure a
 EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
 
 ### Projects
-- [3-Tier-Laravel-Application-Deployment](https://github.com/frenzyali/3-Tier-Laravel-Application-Deployment): Laravel stack on Docker Compose with NGINX reverse proxy and MySQL
-- [3-tier-app-deployment](https://github.com/frenzyali/3-tier-app-deployment): Flask + NGINX + MySQL 3-tier app on Docker Compose
-- [reddit-clone-k8s](https://github.com/frenzyali/reddit-clone-k8s): Reddit clone deployed on Kubernetes
-- [todo-cicd-pipeline](https://github.com/frenzyali/todo-cicd-pipeline): CI/CD pipeline for a to-do app
-- [Automated-Deployment-With-S3-Logs](https://github.com/frenzyali/Automated-Deployment-With-S3-Logs): automated deployment with S3 log shipping (Python)
-- [aws-terraform-3tier](https://github.com/frenzyali/aws-terraform-3tier): Production-style 3-tier AWS infrastructure in Terraform (VPC, ALB, ASG, RDS, remote state) with credential-free CI scanning.
 - [observability-stack](https://github.com/frenzyali/observability-stack): Docker Compose monitoring stack with Prometheus, Alertmanager and Grafana as code, unit-tested alert rules, SLO burn-rate alerts, and an end-to-end test in CI that fires real alerts.
+- [aws-terraform-3tier](https://github.com/frenzyali/aws-terraform-3tier): Production-style 3-tier AWS infrastructure in Terraform (VPC, ALB, ASG, RDS, remote state) with credential-free CI scanning.
+- [reddit-clone-k8s](https://github.com/frenzyali/reddit-clone-k8s): Reddit clone deployed on Kubernetes
+- [3-Tier-Laravel-Application-Deployment](https://github.com/frenzyali/3-Tier-Laravel-Application-Deployment): Laravel stack on Docker Compose with NGINX reverse proxy and MySQL
+- [todo-cicd-pipeline](https://github.com/frenzyali/todo-cicd-pipeline): CI/CD pipeline for a to-do app
+- [3-tier-app-deployment](https://github.com/frenzyali/3-tier-app-deployment): Flask + NGINX + MySQL 3-tier app on Docker Compose
+- [Automated-Deployment-With-S3-Logs](https://github.com/frenzyali/Automated-Deployment-With-S3-Logs): automated deployment with S3 log shipping (Python)
 - Coming next: Ansible hardening.
 
 ### Contact
