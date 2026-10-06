@@ -14,7 +14,6 @@ EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
 - [todo-cicd-pipeline](https://github.com/frenzyali/todo-cicd-pipeline): CI/CD pipeline for a to-do app
 - [3-tier-app-deployment](https://github.com/frenzyali/3-tier-app-deployment): Flask + NGINX + MySQL 3-tier app on Docker Compose
 - [Automated-Deployment-With-S3-Logs](https://github.com/frenzyali/Automated-Deployment-With-S3-Logs): automated deployment with S3 log shipping (Python)
-- Coming next: Ansible hardening.
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/alihussaindevops/) 
