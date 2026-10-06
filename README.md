@@ -11,8 +11,9 @@ EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
 - [reddit-clone-k8s](https://github.com/frenzyali/reddit-clone-k8s): Reddit clone deployed on Kubernetes
 - [todo-cicd-pipeline](https://github.com/frenzyali/todo-cicd-pipeline): CI/CD pipeline for a to-do app
 - [Automated-Deployment-With-S3-Logs](https://github.com/frenzyali/Automated-Deployment-With-S3-Logs): automated deployment with S3 log shipping (Python)
-- [aws-terraform-3tier](https://github.com/frenzyali/aws-terraform-3tier): Production-style 3-tier AWS infrastructure in Terraform (VPC, ALB, ASG, RDS, remote state) with credential-free CI scanning. Terraform counterpart to [3-tier-app-deployment](https://github.com/frenzyali/3-tier-app-deployment).
-- Coming next: Ansible hardening, observability stack
+- [aws-terraform-3tier](https://github.com/frenzyali/aws-terraform-3tier): Production-style 3-tier AWS infrastructure in Terraform (VPC, ALB, ASG, RDS, remote state) with credential-free CI scanning.
+- [observability-stack](https://github.com/frenzyali/observability-stack): Docker Compose monitoring stack with Prometheus, Alertmanager and Grafana as code, unit-tested alert rules, SLO burn-rate alerts, and an end-to-end test in CI that fires real alerts.
+- Coming next: Ansible hardening.
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/alihussaindevops/) 
