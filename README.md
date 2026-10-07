@@ -3,7 +3,7 @@
 **DevOps Engineer** · AWS · Kubernetes · Terraform · Ansible · Docker · CI/CD
 
 I build and run CI/CD pipelines, containerized deployments, and infrastructure automation in production.
-EduQual Level 6 Diploma in DevOps & AI Operations (Distinction).
+EduQual Level 6 Diploma in Artificial Intelligence & Operations (Distinction).
 
 ### Projects
 - [observability-stack](https://github.com/frenzyali/observability-stack): Docker Compose monitoring stack with Prometheus, Alertmanager and Grafana as code, unit-tested alert rules, SLO burn-rate alerts, and an end-to-end test in CI that fires real alerts.
