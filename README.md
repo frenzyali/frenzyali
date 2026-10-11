@@ -17,4 +17,6 @@ EduQual Level 6 Diploma in Artificial Intelligence & Operations (Distinction).
 
 ### Contact
 [![Website](https://img.shields.io/badge/Website-syedalihussain.dev-0b2440?style=flat-square)](https://syedalihussain.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alihussaindevops-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihussaindevops/)
+[![Email](https://img.shields.io/badge/Email-ali%40syedalihussain.dev-555?style=flat-square)](mailto:ali@syedalihussain.dev)
 - Professional work (private repos, activity counts only): [alihussain-aiitsolutions](https://github.com/alihussain-aiitsolutions)
